@@ -1,1 +1,1 @@
-Sitemap: https://zeysun.github.io/FengZhiwei-lab.github.io/sitemap.xml
+Sitemap: https://zeysun.github.io/feng-lab/sitemap.xml
