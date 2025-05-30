@@ -5,6 +5,6 @@
 
   # zeysun's Website
 
-  Visit **[zeysun.github.io/FengZhiwei-lab.github.io](https://zeysun.github.io/FengZhiwei-lab.github.io)** 🚀
+  Visit **[zeysun.github.io/feng-lab](https://zeysun.github.io/feng-lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
